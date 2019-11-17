@@ -17,4 +17,4 @@ async def comehere(ctx):
 async def howhandsome(ctx):
  await ctx.send("olkerklelk")
 
-bot.run('NjQ1NDI3MDM0ODM4OTI1MzMy.XdDZxA.5i01dsq3sekam8y8vbL3J5MiPbQ')
+bot.run()
