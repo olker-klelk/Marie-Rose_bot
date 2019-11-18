@@ -11,7 +11,7 @@ async def in_member_join(member):
  
 @bot.command()
 async def comehere(ctx):
- await ctx.send("olkerklelk")
+ await server.volce.ctx.
 
 @bot.command()
 async def howhandsome(ctx):
